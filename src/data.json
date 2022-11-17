@@ -1,0 +1,505 @@
+[
+  {
+    "userId": 1,
+    "name": "Anu Yogesh",
+    "role": "Associate Software Engineer Intern",
+    "age": 21,
+    "location": "Bangalore",
+    "experience": "3 years",
+    "about": " Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C#, PYTHON, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
+    "skills": [ {
+      "proglang" :[
+      {  
+        "skill_name": "html",
+        "rating": 100
+      },
+      {
+        "skill_name": "css",
+        "rating": 10
+      },
+      {
+        "skill_name": "Javascript",
+        "rating": 85
+      },
+      {
+        "skill_name": "UI",
+        "rating": 85
+      }
+    ]},{
+    "framework":[
+      {  
+        "skill_name": "Django",
+        "rating": 100
+      },
+      {
+        "skill_name": "Angular",
+        "rating": 10
+      }
+    ]},{
+    "Libraries":[
+      {  
+        "skill_name": "numpy",
+        "rating": 100
+      },
+      {
+        "skill_name": "panda",
+        "rating": 10
+      }
+    ]}
+  ]
+  },
+  {
+    "userId": 2,
+    "name": "Dhanush V D Upadya",
+    "role": "Associate Software Engineer Intern",
+    "age": 21,
+    "location": "Shivamogga",
+    "experience": "3 years",
+    "about": "I was born in Bangladesh, grew up in New York City and went to school in Nashville, TN (Vanderbilt). I am super Desi when it comes to Cricket and Bollywood. I love to read and travel. I circumnavigated the world to more than 45 countries. I volunteer regularly and am passionate about social good and technology. Currently, I am working to grow Peloton and disrupt the fitness industry. My job is to find and hire the current and future bad-asses in the technology industry. ",
+    "skills": [
+      {
+        "proglang" :[
+        {  
+          "skill_name": "C++",
+          "rating": 100
+        },
+        {
+          "skill_name": "C",
+          "rating": 10
+        },
+        {
+          "skill_name": "Javascript",
+          "rating": 85
+        },
+        {
+          "skill_name": "Python",
+          "rating": 85
+        }
+      ]},{
+      "framework":[
+        {  
+          "skill_name": "NodeJs",
+          "rating": 100
+        },
+        {
+          "skill_name": "Angular",
+          "rating": 10
+        }
+      ]},{
+      "Libraries":[
+        {  
+          "skill_name": "matplotlib",
+          "rating": 100
+        },
+        {
+          "skill_name": "keras",
+          "rating": 10
+        }
+      ]}
+    ]
+  },
+  {
+    "userId": 3,
+    "name": "Adarsh A Koushik",
+    "role": "Associate Software Engineer Intern",
+    "age": 21,
+    "location": "Mysuru",
+    "experience": "2 years",
+    "about": "Countries I traveled: Argentina, Bahamas, Bangladesh, Brazil, Belgium, China, Cuba, Colombia, Egypt, England, France, Germany, Guatemala , Hong Kong, India, Ireland , Italy, Indonesia, Japan, Mauritius, Morocco, Namibia, Scotland ,St. Lucia, South Africa, Spain, Switzerland , Thailand , The Netherlands, Turkey, UAE, Uganda, Viet Nam, Zambia and Zimbabwe )",
+    "skills": [
+      {
+        "proglang" :[
+        {  
+          "skill_name": "Java",
+          "rating": 100
+        },
+        {
+          "skill_name": "C+",
+          "rating": 10
+        },
+        {
+          "skill_name": "Python",
+          "rating": 85
+        },
+        {
+          "skill_name": "UI",
+          "rating": 85
+        }
+      ]},{
+      "framework":[
+        {  
+          "skill_name": "Vue",
+          "rating": 100
+        },
+        {
+          "skill_name": "Angular",
+          "rating": 10
+        }
+      ]},{
+      "Libraries":[
+        {  
+          "skill_name": "nltk",
+          "rating": 100
+        },
+        {
+          "skill_name": "sckit-learn",
+          "rating": 10
+        }
+      ]}
+    ]
+  },
+  {
+    "userId": 4,
+    "name": "Srinivas K R",
+    "role": "Associate Software Engineer Intern",
+    "age": 21,
+    "location": "Mysuru",
+    "experience": "1 years",
+    "about": "Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C#, PYTHON, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
+    "skills": [
+      {
+        "proglang" :[
+        {  
+          "skill_name": "html",
+          "rating": 100
+        },
+        {
+          "skill_name": "c++",
+          "rating": 10
+        },
+        {
+          "skill_name": "Javascript",
+          "rating": 85
+        },
+        {
+          "skill_name": "python",
+          "rating": 85
+        }
+      ]},{
+      "framework":[
+        {  
+          "skill_name": "Django",
+          "rating": 100
+        },
+        {
+          "skill_name": "Angular",
+          "rating": 10
+        }
+      ]},{
+      "Libraries":[
+        {  
+          "skill_name": "numpy",
+          "rating": 100
+        },
+        {
+          "skill_name": "panda",
+          "rating": 10
+        }
+      ]}
+    ]
+  },
+  {
+    "userId": 5,
+    "name": "Anagha S",
+    "role": "Associate Software Engineer Intern",
+    "age": 21,
+    "location": "Mysuru",
+    "experience": "2 years",
+    "about": "Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C#, PYTHON, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
+    "skills": [
+      {
+        "proglang" :[
+        {  
+          "skill_name": "html",
+          "rating": 100
+        },
+        {
+          "skill_name": "css",
+          "rating": 10
+        },
+        {
+          "skill_name": "python",
+          "rating": 85
+        },
+        {
+          "skill_name": "UI",
+          "rating": 85
+        }
+      ]},{
+      "framework":[
+        {  
+          "skill_name": "nodeJs",
+          "rating": 100
+        },
+        {
+          "skill_name": "django",
+          "rating": 10
+        }
+      ]},{
+      "Libraries":[
+        {  
+          "skill_name": "Keras",
+          "rating": 100
+        },
+        {
+          "skill_name": "pandas",
+          "rating": 10
+        }
+      ]}
+    ]
+  },
+  {
+    "userID": 6,
+    "name": "Varun Vighnesh",
+    "role": "Associate Software Engineer Intern",
+    "age": 21,
+    "location": "Mysuru",
+    "experience": "2 years",
+    "about": "I've created campaigns for more iconic brands than you can shake an iPhone at. My longtime creative partner, Jag Prabhu, and I have produced work for Unilever. Verizon Wireless. Johnson & Johnson. AT&T. Pfizer. Nestle. Bristol-Myers Squibb, IBM, GlaxoSmithKline. US Airways... And we've gotten to schmooze with the leaders of these fine companies. Quite a rush.",
+    "skills": [
+      {
+        "proglang" :[
+        {  
+          "skill_name": "Java",
+          "rating": 100
+        },
+        {
+          "skill_name": "css",
+          "rating": 10
+        },
+        {
+          "skill_name": "Javascript",
+          "rating": 85
+        },
+        {
+          "skill_name": "Html",
+          "rating": 85
+        }
+      ]},{
+      "framework":[
+        {  
+          "skill_name": "Bootstrap",
+          "rating": 100
+        },
+        {
+          "skill_name": "Angular",
+          "rating": 10
+        }
+      ]},{
+      "Libraries":[
+        {  
+          "skill_name": "Pytorch",
+          "rating": 100
+        },
+        {
+          "skill_name": "NLTK",
+          "rating": 10
+        }
+      ]}
+    ]
+  },
+  {
+    "userId": 6,
+    "name": "Dharani Rajgopal",
+    "role": "Associate Software Engineer Intern",
+    "age": 21,
+    "location": "Mysuru",
+    "experience": "2 years",
+    "about": "Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C#, PYTHON, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
+    "skills": [
+      {
+        "proglang" :[
+        {  
+          "skill_name": "html",
+          "rating": 100
+        },
+        {
+          "skill_name": "css",
+          "rating": 10
+        },
+        {
+          "skill_name": "Javascript",
+          "rating": 85
+        },
+        {
+          "skill_name": "Python",
+          "rating": 85
+        }
+      ]},{
+      "framework":[
+        {  
+          "skill_name": "Bulma",
+          "rating": 100
+        },
+        {
+          "skill_name": "Angular",
+          "rating": 10
+        }
+      ]},{
+      "Libraries":[
+        {  
+          "skill_name": "Keras",
+          "rating": 100
+        },
+        {
+          "skill_name": "TensorFlow",
+          "rating": 10
+        }
+      ]}
+    ]
+  },
+  {
+    "userID": 7,
+    "name": "Rajat Sehmwal",
+    "role": "Associate Software Engineer Intern",
+    "age": 21,
+    "location": "Dehradun",
+    "experience": "2 years",
+    "about": "Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C#, PYTHON, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
+    "skills": [
+      {
+        "proglang" :[
+        {  
+          "skill_name": "Java",
+          "rating": 100
+        },
+        {
+          "skill_name": "Html",
+          "rating": 10
+        },
+        {
+          "skill_name": "Javascript",
+          "rating": 85
+        },
+        {
+          "skill_name": "Css",
+          "rating": 85
+        }
+      ]},{
+      "framework":[
+        {  
+          "skill_name": "Django",
+          "rating": 100
+        },
+        {
+          "skill_name": "Angular",
+          "rating": 10
+        }
+      ]},{
+      "Libraries":[
+        {  
+          "skill_name": "numpy",
+          "rating": 100
+        },
+        {
+          "skill_name": "TensorFlow",
+          "rating": 10
+        }
+      ]}
+    ]
+  },
+  {
+    "userID": 8,
+    "name": "Raj",
+    "role": "Associate Software Engineer Intern",
+    "age": 21,
+    "location": "Kashmir",
+    "experience": "2 years",
+    "about": "Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C#, PYTHON, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
+    "skills": [
+      {
+        "proglang" :[
+        {  
+          "skill_name": "C++",
+          "rating": 100
+        },
+        {
+          "skill_name": "C",
+          "rating": 10
+        },
+        {
+          "skill_name": "Python",
+          "rating": 85
+        },
+        {
+          "skill_name": "UI",
+          "rating": 85
+        }
+      ]},{
+      "framework":[
+        {  
+          "skill_name": "Bulma",
+          "rating": 100
+        },
+        {
+          "skill_name": "Bootstrap",
+          "rating": 10
+        }
+      ]},{
+      "Libraries":[
+        {  
+          "skill_name": "Keras",
+          "rating": 100
+        },
+        {
+          "skill_name": "TensorFlow",
+          "rating": 10
+        }
+      ]}
+    ]
+  },
+  {
+    "userId": 9,
+    "name": "Gowtham Raj",
+    "role": "Associate Software Engineer Intern",
+    "age": 21,
+    "location": "Banglore",
+    "experience": "4 years",
+    "about": "Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C#, PYTHON, JAVASCRIPT, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.",
+    "skills": [
+      {
+        "proglang" :[
+        {  
+          "skill_name": "Java",
+          "rating": 100
+        },
+        {
+          "skill_name": "css",
+          "rating": 10
+        },
+        {
+          "skill_name": "Javascript",
+          "rating": 85
+        },
+        {
+          "skill_name": "Python",
+          "rating": 85
+        }
+      ]},{
+      "framework":[
+        {  
+          "skill_name": "Django",
+          "rating": 100
+        },
+        {
+          "skill_name": "Bootstrap",
+          "rating": 10
+        }
+      ]},{
+      "Libraries":[
+        {  
+          "skill_name": "numpy",
+          "rating": 100
+        },
+        {
+          "skill_name": "Keras",
+          "rating": 10
+        }
+      ]}
+    ]
+  }
+]
+
+
+
+ 
